@@ -1,4 +1,4 @@
-# Hi there, I'm Jià N0w 👋
+# Hi there, I'm JiaN0w 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JiaN0w&color=blueviolet&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/JiaN0w?style=social)
